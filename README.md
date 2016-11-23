@@ -1,3 +1,2 @@
-# curso-angular abel barahona
-mauriff@gmail.com
-sub: Curso Angular 
+# author abel barahona
+sub: adivinar numero 
